@@ -4,3 +4,10 @@ body{
 .bilden{
     width: 250px;
 }
+a{
+    color: yellow;
+     text-decoration: none;
+}
+img{
+     float right;
+}

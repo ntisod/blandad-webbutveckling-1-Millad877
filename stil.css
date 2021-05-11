@@ -1,0 +1,24 @@
+
+        p{ 
+            background-color: burlywood;
+            width: 300px;
+            border: 3px solid crimson;
+            padding: 10px;
+            margin: 20px;
+            height: 16px;
+
+        }
+
+
+header{
+    background-color: yellowgreen;
+}
+nav{
+    background-color: lightblue;
+}
+main{
+background-color: red;
+}
+footer{
+    background-color: green;
+}

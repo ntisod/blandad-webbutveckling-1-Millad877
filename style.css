@@ -1,0 +1,13 @@
+body{
+    background: linear-gradient(to right, blue, red);
+} 
+.bilden{
+    width: 250px;
+}
+a{
+    color: yellow;
+     text-decoration: none;
+}
+img{
+     float: right;
+}
